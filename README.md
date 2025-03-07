@@ -2,7 +2,7 @@ React To Do App
 
 A simple To-Do List App built with React to manage our task.
 
-Feature
+## 📌 Features
 
 - Add new tasks
 - Delete tasks
